@@ -2,5 +2,5 @@
 
 .read 02_load_schema_dq.sql
 
-
+.read 03_create_flat_mart.sql
 
