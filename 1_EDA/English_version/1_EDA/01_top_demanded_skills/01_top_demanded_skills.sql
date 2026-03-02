@@ -10,22 +10,3 @@ order by demand_count desc
 limit 10;
 
 
-/*
-┌────────────┬──────────────┐
-│   skills   │ demand_count │
-│  varchar   │    int64     │
-├────────────┼──────────────┤
-│ sql        │        29221 │
-│ python     │        28776 │
-│ aws        │        17823 │
-│ azure      │        14143 │
-│ spark      │        12799 │
-│ airflow    │         9996 │
-│ snowflake  │         8639 │
-│ databricks │         8183 │
-│ java       │         7267 │
-│ gcp        │         6446 │
-├────────────┴──────────────┤
-│ 10 rows         2 columns │
-└───────────────────────────┘
-*/
